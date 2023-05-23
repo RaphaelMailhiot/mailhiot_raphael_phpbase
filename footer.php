@@ -1,0 +1,8 @@
+<!--=================================
+ footer -->
+
+<footer class="footer">
+    <div class="wrapper">
+
+    </div>
+</footer>
